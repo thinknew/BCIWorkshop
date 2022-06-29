@@ -5,7 +5,8 @@ This repository is part of the hands-on workshop on how to bridge the gap betwee
 What is included in this respository 
 ==============
 * Jupyter Notebook to create and process EEG data with TensorFlow
-* Three set of EEG data collected from P300 experiment during the workshop 
+* Three set of EEG data collected from P300 experiment during the workshop
+  * Data is in .mat format and contain two variables Data (Channel X Number of Samples]) and Label (Binary class)
 
 External material used in workshop
 ==============
