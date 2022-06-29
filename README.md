@@ -9,7 +9,7 @@ What is included in this respository
 
 External material used in workshop
 ==============
-* [Matlab based P300 ERP Processing pipelinehttps](//au.mathworks.com/matlabcentral/fileexchange/113645-p300-erp-preprocessing-gui)
+* [Matlab based P300 ERP Processing pipeline](//au.mathworks.com/matlabcentral/fileexchange/113645-p300-erp-preprocessing-gui)
 
 Is there recorded videos for workshop
 ==============
