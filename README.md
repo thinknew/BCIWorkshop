@@ -7,6 +7,7 @@ What is included in this respository
 * Jupyter Notebook to create and process EEG data with TensorFlow
 * Three set of EEG data collected from P300 experiment during the workshop
   * Data is in .mat format and contain two variables Data (Channel X Number of Samples]) and Label (Binary class)
+* Unity Game engine based experimental scenario used during workshop for P300 and SSVEP
 
 External material used in workshop
 ==============
