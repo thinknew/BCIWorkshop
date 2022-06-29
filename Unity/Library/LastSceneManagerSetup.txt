@@ -1,0 +1,17 @@
+sceneSetups:
+- path: Assets/Scenes/Landing.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/P300.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SSVEP.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/SSVEP Unlabeled.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
