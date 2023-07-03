@@ -1,10 +1,10 @@
 # BCI Workshop
 
-This repository is part of the hands-on workshop on how to bridge the gap between Neuroscience and Computational Intelligence to design and develop Brain-Computer Interface. This workshop intends to promote standardization of terminologies and technologies for Brain-Computer Interfaces to computational intelligence practitioners and Neuroscience communities. The workshop promotes the utilization of open-source tools such as Google TensorFlow for enhancing community cohesion and BCI standardization.
+This repository is updated yearly and is a part of the hands-on workshop on Brain-Computer Interface with a theme on how to bridge the gap between Neuroscience and Computational Intelligence to design and develop Brain-Computer Interface. This workshop intends to promote standardization of terminologies and technologies for Brain-Computer Interfaces to computational intelligence practitioners and Neuroscience communities. The workshop promotes the utilization of open-source tools such as for enhancing community cohesion and BCI standardization.
 
 What is included in this respository 
 ==============
-* Jupyter Notebook to create and process EEG data with TensorFlow
+* Jupyter Notebook to create and process EEG data with TensorFlow from the workshop in 2022 and 2023
 * Three set of EEG data collected from P300 experiment during the workshop
   * Data is in .mat format and contain two variables Data (Channel X Number of Samples]) and Label (Binary class)
 * Unity Game engine based experimental scenario used during workshop for P300 and SSVEP
@@ -15,7 +15,8 @@ External material used in workshop
 
 Is there recorded videos for workshop
 ==============
-Yes, whole workshop has been recorded over zoom and has been uploaded on following Youtube location
+* No for BCI Workshop in 2023.
+* Yes for BCI Workshop in 2022, whole workshop has been recorded over zoom and has been uploaded on following Youtube location
 
 [![Workshop Video](https://github.com/thinknew/BCIWorkshop/blob/main/images/YT.png)](https://youtu.be/Gi3UshG_8CI "Worshop on Standardised Brain Computer Interface Framework
 ")
@@ -39,4 +40,5 @@ Learning resources for brain-computer interface and TensorFlow
 
 How to reach organisers and read more about workshop
 ==============
-* [Official Workshop Website](https://thinknew.github.io/BCIWorkshop/)
+*  [Official Workshop Website 2023](https://thinknew.github.io/BCIWorkshop2023/)
+*  [Official Workshop Website 2022](https://thinknew.github.io/BCIWorkshop/)
